@@ -135,7 +135,7 @@ One line of code. Instant data access
 ---
 
 <a href="https://www.ez-captcha.com" target="_blank">
-  <img src="https://www.ez-captcha.com/logo.png" height="50" width="50">
+  <img src="https://www.ez-captcha.com/siteLogo.png" height="50" width="50">
 </a>
 
 Captcha solving can be slow and unreliable, but **[EzCaptcha](https://www.ez-captcha.com)** delivers fast, reliable solving through a simple API — supporting a wide range of captcha types with no complex integration required.  
@@ -144,7 +144,7 @@ Captcha solving can be slow and unreliable, but **[EzCaptcha](https://www.ez-cap
 
 Designed for developers, it offers high accuracy, low price, low latency, and easy integration, helping you automate verification while keeping traffic secure and user flows smooth.
 
-🚀 **[Get API Key](https://www.ez-captcha.com/register)** | 📖 **[Docs](https://ezcaptcha.atlassian.net/wiki/spaces/IS/pages/7045121/EzCaptcha+API+Docs+English)** | 💬 **[Telegram](https://t.me/+NrVmPhlb9ZFkZGY5)**
+🚀 **[Get API Key](https://dashboard.ez-captcha.com/login)** | 📖 **[Docs](https://ezcaptcha.atlassian.net/wiki/spaces/IS/pages/7045121/EzCaptcha+API+Docs+English)** | 💬 **[Telegram](https://t.me/+NrVmPhlb9ZFkZGY5)**
 
 ---
 
