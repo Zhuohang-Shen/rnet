@@ -149,7 +149,7 @@ Unless you explicitly state otherwise, any contribution intentionally submitted 
   <img src="https://www.ez-captcha.com/siteLogo.png" height="50" width="50">
 </a>
 
-Captcha solving can be slow and unreliable, but **[EzCaptcha](https://www.ez-captcha.com/?refererFlag=github-rnet)** delivers fast, reliable solving through a simple API — supporting a wide range of captcha types with no complex integration required.  
+Captcha solving can be slow and unreliable, but **[EzCaptcha](https://www.ez-captcha.com)** delivers fast, reliable solving through a simple API — supporting a wide range of captcha types with no complex integration required.  
 
 **ReCaptcha** • **FunCaptcha** • **CloudFlare** • **Akamai** • **AkamaiSbsd** • **HCaptcha**  
 
