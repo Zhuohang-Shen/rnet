@@ -19,7 +19,7 @@ One line of code. Instant data access
 ---
 
 <a href="https://www.ez-captcha.com" target="_blank">
-  <img src="https://www.ez-captcha.com/siteLogo.png" height="47" width="47">
+  <img src="https://www.ez-captcha.com/siteLogo.png" height="47">
 </a>
 
 Captcha solving can be slow and unreliable, but **[EzCaptcha](https://www.ez-captcha.com/?r=github-rnet)** delivers fast, reliable solving through a simple API — supporting a wide range of captcha types with no complex integration required.  
@@ -47,7 +47,7 @@ One-click data collection with enterprise-grade stability and compliance. Join t
 ---
 
 <a href="https://salamoonder.com/" target="_blank">
-  <img src="https://salamoonder.com/auth/assets/images/3d_logo.png" height="47" width="47">
+  <img src="https://salamoonder.com/auth/assets/images/3d_logo.png" height="47">
 </a>
 
 Anti-bots evolve quickly, but **[Salamoonder](https://salamoonder.com/)** moves faster, delivering reliable anti-bot tokens with just two API requests — no browser automation or unnecessary complexity required.  
